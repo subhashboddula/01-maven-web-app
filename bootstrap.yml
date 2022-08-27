@@ -1,0 +1,6 @@
+spring:
+   application:
+     name: dcb-bank-app
+server:
+  port : 9090
+       
